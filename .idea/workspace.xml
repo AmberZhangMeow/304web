@@ -2,19 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b8bc44a-0449-4689-88dc-1cc8f681e257" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsslider/Draggable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsslider/TweenMax.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jquery-2.1.4.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsslider/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsslider/jquery.timelinr-0.9.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/lrzj_x.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/lrzj_y.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jsslider/slider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/style.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Generated_files.xml" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\.idea\.name" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\.idea\misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\.idea\modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\.idea\vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\.idea\web.iml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\css\lrzj_x.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\css\lrzj_y.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\css\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\index" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\jquery-2.1.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\jsslider\Draggable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\jsslider\TweenMax.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\jsslider\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\jsslider\jquery.timelinr-0.9.3.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\jsslider\slider.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\slider.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\style.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\style.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\css\lrzj_x.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\css\lrzj_y.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\1.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\10.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\2.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\3.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\4.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\5.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\7.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\8.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\biggerdot.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\dot.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\grad_bottom.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\grad_left.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\grad_right.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\grad_top.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\next.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\next_v.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\prev.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\images\prev_v.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\index2.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\js\jquery.timelinr-0.9.3.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Administrator\Desktop\web\横向（纵向）时间轴tab标签切换和水平（垂直）切换幻灯片效果\slider.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,64 +71,7 @@
     <favorites_list name="web" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="styles.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.3199482" vertical-offset="342" max-vertical-offset="3876">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.5" vertical-offset="0" max-vertical-offset="2280">
-              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="51" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1434621364236" expanded="true" signature="902:1001" placeholder="..." />
-                <marker date="1434621364236" expanded="true" signature="930:980" placeholder="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="slider.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/slider.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.107143" vertical-offset="0" max-vertical-offset="1805">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lrzj_x.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/lrzj_x.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2736">
-              <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="171">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -106,16 +84,16 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/style.js" />
         <option value="$PROJECT_DIR$/slider.html" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/style.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-538" />
-    <option name="y" value="193" />
+    <option name="x" value="13" />
+    <option name="y" value="12" />
     <option name="width" value="1618" />
     <option name="height" value="922" />
   </component>
@@ -162,6 +140,10 @@
               <option name="myItemId" value="web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="timeline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -173,7 +155,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jsslider" />
+              <option name="myItemId" value="timeline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="music" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -184,6 +170,46 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="timeline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="timeline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="timeline" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -200,6 +226,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="F:/YUI COMPRESSOR/yuicompressor-2.4.8.jar" />
+    <property name="options.lastSelected" value="settings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -213,14 +244,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -231,14 +254,12 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
       <option name="filePath" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
-      <envs />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -246,6 +267,16 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -269,23 +300,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-538" y="193" width="1618" height="922" extended-state="0" />
+    <frame x="13" y="12" width="1618" height="922" extended-state="1" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -311,69 +342,77 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jquery-2.1.4.min.js">
+    <entry file="file://$PROJECT_DIR$/timeline/timeline slider.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="190">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="768">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2337">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsslider/jquery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.07509881" vertical-offset="0" max-vertical-offset="759">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/timeline/images/background.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsslider/slider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.2122396" vertical-offset="1026" max-vertical-offset="2812">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/timeline/images/content_img_1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jsslider/jquery.timelinr-0.9.3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.42555994" vertical-offset="0" max-vertical-offset="3534">
-          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/timeline/images/content_img_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.5" vertical-offset="0" max-vertical-offset="2280">
-          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="51" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1434621364236" expanded="true" signature="902:1001" placeholder="..." />
-            <marker date="1434621364236" expanded="true" signature="930:980" placeholder="{...}" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/timeline/images/content_img_3.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/lrzj_x.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1964" max-vertical-offset="2736">
-          <caret line="49" column="17" selection-start-line="49" selection-start-column="17" selection-end-line="49" selection-end-column="17" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/timeline/images/content_img_6.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/style.js">
+    <entry file="file://$PROJECT_DIR$/timeline/images/drag_icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeline/images/scrollbar_dragger.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeline/images/thumb_image_hover.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeline/images/help_bt.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeline/images/content_img_5.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeline/images/content_img_4.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeline/images/video_sample_thumb.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timeline/js/jquery.tipsy.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="768">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3800">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -381,18 +420,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/slider.html">
+    <entry file="file://$PROJECT_DIR$/timeline/css/m.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.107143" vertical-offset="0" max-vertical-offset="1805">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3199482" vertical-offset="342" max-vertical-offset="3876">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4560">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
