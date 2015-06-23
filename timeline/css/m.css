@@ -44,8 +44,11 @@ img {
 }
 .title {
 	top: 540px;
-	left: 287px;
-	position: absolute
+	left: 325px;
+	position: absolute;
+    font-family:Arial,sans-serif;
+    font-size:10px;
+    color:#fff;
 }
 #timeline_container {
 	position: relative;
@@ -231,4 +234,26 @@ img {
 	position: absolute;
 	top: 1px;
 	right: 7px
+}
+.menuul{
+    list-style-type:none;
+    margin:0px;
+    padding:0px;
+}
+.menuul li{
+    display:inline;
+}
+.menuul li a:link,a:visited
+{
+    font-weight:bold;
+    color:#FFFFFF;
+    background-color: #bfb7a4;
+    text-align:center;
+    padding:6px;
+    text-decoration:none;
+    text-transform:uppercase;
+}
+.menuul li a:hover,a:active
+{
+    background-color: #909199;
 }
